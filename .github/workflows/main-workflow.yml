@@ -37,7 +37,14 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-uv-
 
-      # 5. Install dependencies
+      # 5. Set up venv and install dependencies
+      - name: Set up uv environment
+          run: |
+            uv venv .venv
+            source .venv/bin/activate
+            uv pip install -r requirements.txt
+            uv pip install jupyter nbconvert
+
       - name: Install dependencies
         run: |
           uv pip install -r requirements.txt
