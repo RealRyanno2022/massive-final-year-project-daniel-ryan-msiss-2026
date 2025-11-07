@@ -10,4 +10,4 @@ signals against Google Trends data for ESG-related searches. Analyze whether per
 high public ESG interest correlate with performance differences between high-ESG and
 low-ESG companies. This project combines practical NLP skills, financial data analysis,
 and behavioral finance insights while working with real-world datasets including
-Polygon.io’s market data and SEC filings
+Massive.io’s market data and SEC filings
