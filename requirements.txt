@@ -1,0 +1,109 @@
+# Core Python data analysis
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+seaborn
+tqdm
+
+# Machine Learning / Forecasting
+scikit-learn
+xgboost
+lightgbm
+catboost
+prophet
+pmdarima
+tensorflow
+torch
+torchvision
+torchaudio
+
+# Natural Language Processing (NLP)
+nltk
+spacy
+textblob
+gensim
+transformers
+sentence-transformers
+wordcloud
+langchain
+openai
+huggingface-hub
+
+# Vectorization and Embeddings
+faiss-cpu
+umap-learn
+bertopic
+sentencepiece
+
+# ESG Text Extraction / Parsing / Web
+beautifulsoup4
+requests
+lxml
+html5lib
+yfinance
+googlesearch-python
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-trends-scraper
+
+# Statistical / Econometrics
+linearmodels
+arch
+pandas-datareader
+
+# Time Series / Forecasting Extensions
+tsfresh
+darts
+statsforecast
+neuralprophet
+
+# Evaluation and Experimentation
+mlflow
+optuna
+hydra-core
+
+# Visualization and Dashboards
+plotly
+dash
+streamlit
+bokeh
+altair
+shiny
+matplotlib-inline
+
+# Reproducibility and Config
+pyyaml
+python-dotenv
+joblib
+
+# Testing and Quality
+pytest
+black
+flake8
+mypy
+
+# Jupyter & Notebook Execution (for CI)
+jupyter
+nbconvert
+ipykernel
+nbformat
+
+# Data Storage / Formats
+openpyxl
+pyarrow
+fastparquet
+SQLAlchemy
+
+# Automation / Utilities
+click
+rich
+typer
+pathlib
+datetime
+
+# GitHub CI / Build Utilities
+uv
