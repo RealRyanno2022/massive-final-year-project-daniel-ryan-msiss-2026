@@ -1,5 +1,10 @@
 # User config
 .env
+/output
+/outputs
+.vscode
+# Data universe
+spy_10k_2015_present.parquet 
 
 
 
